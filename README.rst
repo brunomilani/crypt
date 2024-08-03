@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/GehirnInc/crypt.svg?branch=master
-    :target: https://travis-ci.org/GehirnInc/crypt
+.. image:: https://travis-ci.org/brunomilani/crypt.svg?branch=master
+    :target: https://travis-ci.org/brunomilani/crypt
 
 crypt - A password hashing library for Go
 =========================================
@@ -23,7 +23,7 @@ To install crypt, use the *go get* command.
 
 .. code-block:: sh
 
-   go get github.com/GehirnInc/crypt
+   go get github.com/brunomilani/crypt
 
 
 Usage
@@ -36,8 +36,8 @@ Usage
     import (
     	"fmt"
 
-    	"github.com/GehirnInc/crypt"
-    	_ "github.com/GehirnInc/crypt/sha256_crypt"
+    	"github.com/brunomilani/crypt"
+    	_ "github.com/brunomilani/crypt/sha256_crypt"
     )
 
     func main() {
@@ -58,4 +58,4 @@ Documentation
 
 The documentation is available on GoDoc_.
 
-.. _GoDoc: https://godoc.org/github.com/GehirnInc/crypt
+.. _GoDoc: https://godoc.org/github.com/brunomilani/crypt

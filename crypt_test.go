@@ -3,8 +3,8 @@ package crypt_test
 import (
 	"testing"
 
-	"github.com/GehirnInc/crypt"
-	_ "github.com/GehirnInc/crypt/apr1_crypt"
+	"github.com/brunomilani/crypt"
+	_ "github.com/brunomilani/crypt/apr1_crypt"
 	"github.com/stretchr/testify/assert"
 )
 

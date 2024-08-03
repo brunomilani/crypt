@@ -11,9 +11,9 @@ import (
 	"crypto/md5"
 	"crypto/subtle"
 
-	"github.com/GehirnInc/crypt"
-	"github.com/GehirnInc/crypt/common"
-	"github.com/GehirnInc/crypt/internal"
+	"github.com/brunomilani/crypt"
+	"github.com/brunomilani/crypt/common"
+	"github.com/brunomilani/crypt/internal"
 )
 
 func init() {

@@ -10,9 +10,9 @@
 package apr1_crypt
 
 import (
-	"github.com/GehirnInc/crypt"
-	"github.com/GehirnInc/crypt/common"
-	"github.com/GehirnInc/crypt/md5_crypt"
+	"github.com/brunomilani/crypt"
+	"github.com/brunomilani/crypt/common"
+	"github.com/brunomilani/crypt/md5_crypt"
 )
 
 func init() {
